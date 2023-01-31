@@ -8,6 +8,6 @@ havin fun!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolisboa10&theme=theme_merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolisboa10&theme=merko&show_icons=true)
 
 
