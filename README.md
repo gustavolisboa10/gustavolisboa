@@ -1,4 +1,4 @@
-# Óla sou o Gustavo Lisboa
+# Olá sou o Gustavo Lisboa
 <hr>
 Estou estudando  Desenvolvimento FrontEnd 
 HTML, CSS, JS 
