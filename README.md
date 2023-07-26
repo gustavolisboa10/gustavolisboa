@@ -1,7 +1,7 @@
 # Olá sou o Gustavo Lisboa
 <hr>
-Estou estudando  Desenvolvimento FrontEnd 
-HTML, CSS, JS 
+Sou Desenvolvedor FrontEnd 
+HTML, CSS, JS, GIT, GITHUB 
 
 irei compartilhar os meus projetos!!!
 
