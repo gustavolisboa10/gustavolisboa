@@ -20,6 +20,8 @@ havin fun!
   <img align="center" alt="gu-js" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+          
 
   
            
